@@ -50,11 +50,11 @@ Monitor and celebrate personal progress with a built-in tracker, fostering a sen
 
 ## Contributing
 
-LifeGuard is an open-source project, and contributions are welcome! If you have ideas for new features or improvements, please open an issue or submit a pull request on our [GitHub repository](https://github.com/your-username/lifeguard-extension).
+LifeGuard is an open-source project, and contributions are welcome! If you have ideas for new features or improvements, please open an issue or submit a pull request on our GitHub repository
 
 ## Support and Contact
 
-For any inquiries or support, please contact us at lifeguard.support@example.com.
+For any inquiries or support, please contact us.
 
 ## Disclaimer
 
